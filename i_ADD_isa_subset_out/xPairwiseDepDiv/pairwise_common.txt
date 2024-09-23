@@ -1,0 +1,9 @@
+impl,id_stage_s1,issue_s32
+impl,id_stage_s1,scb_0_s12
+impl,id_stage_s1,scb_0_s13
+impl,id_stage_s1,scb_0_s8
+impl,issue_s32,scb_0_s12
+impl,issue_s32,scb_0_s13
+impl,issue_s32,scb_0_s8
+impl_pl,scb_0_s8,scb_0_s12
+impl_pl,scb_0_s8,scb_0_s13
